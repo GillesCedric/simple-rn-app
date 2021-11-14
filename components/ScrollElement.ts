@@ -1,5 +1,10 @@
 import { Animated } from 'react-native';
 
+/**
+ * @file this file contains all the types of the application
+ * @since 12/11/2021
+ * @author Gilles Cedric
+ */
 export interface SearchInputProps {
 	text: string,
 	onButtonPress: () => void,

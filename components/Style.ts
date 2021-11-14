@@ -1,5 +1,10 @@
 import { StyleSheet } from 'react-native';
 
+/**
+ * @file this file contains all the styles of the application
+ * @since 12/11/2021
+ * @author Gilles Cedric
+ */
 export const appStyles = StyleSheet.create({
 	container: {
 		flex: 1,
